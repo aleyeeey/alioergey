@@ -6,6 +6,29 @@
 - 🌱 I’m currently learning everything
 - 🥅 2020 Goals: finish my semester good
 - ⚡ Fun fact: I play in a melodic-hardcore band called "Mel T. Eyes"
+- Account age: **{{ ACCOUNT_AGE }}** years
+  
+- Pushed **{{ COMMITS }}** commits
+  
+- Opened **{{ ISSUES }}** issues
+  
+- Submitted **{{ PULL_REQUESTS }}** pull requests
+  
+- Received **{{ STARS }}** stars
+  
+-  Own **{{ REPOSITORIES }}** repositories
+  
+  Top 8 most used languages across your repositories:
+  
+  {{ LANGUAGE_TEMPLATE_START }}
+  ![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1{{LANGUAGE_PERCENT:uri}}%25)
+  {{ LANGUAGE_TEMPLATE_END }}
+  
+- Top 4 most used languages across your repositories:
+  
+  {{ LANGUAGE_TEMPLATE_START:max=4 }}
+  ![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1{{LANGUAGE_PERCENT:uri}}%25)
+  {{ LANGUAGE_TEMPLATE_END }}
 
 ### Spotify Playing 🎧
 
@@ -15,32 +38,7 @@
 
 [<img align="left" alt="alioergey | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-<br />
-
-### Languages and Tools:
-
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Postgres" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<br />
-<br />
-
----
-
-<details>
-  <summary>⚡ GitHub Stats</summary>
-
-![alioergey's github stats](https://github-readme-stats.vercel.app/api?username=alioergey&count_private=true&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alioergey)](https://github.com/anuraghazra/github-readme-stats)
-</details>
 
 [linkedin]: https://www.linkedin.com/in/ali-%C3%B6rgey/
+
+
