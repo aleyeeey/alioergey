@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I play in a melodic-hardcore band called "Mel T. Eyes"
 - Account age: **0** years
   
-- Pushed **55** commits
+- Pushed **57** commits
   
 - Opened **1** issues
   
@@ -20,9 +20,9 @@
   
 - Top 4 most used languages across your repositories:
   
-    ![PHP](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%234F5D95&message=PHP%EF%B8%B163.8%25)
-    ![Java](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23b07219&message=Java%EF%B8%B132.9%25)
-    ![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23563d7c&message=CSS%EF%B8%B13.1%25)
+    ![PHP](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%234F5D95&message=PHP%EF%B8%B165.4%25)
+    ![Java](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23b07219&message=Java%EF%B8%B131.2%25)
+    ![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23563d7c&message=CSS%EF%B8%B13.2%25)
   
 ### Spotify Playing 🎧
 
