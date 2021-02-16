@@ -8,11 +8,11 @@
 - ⚡ Fun fact: I play in a melodic-hardcore band called "Mel T. Eyes"
 - Account age: **1** years
   
-- Pushed **147** commits
+- Pushed **152** commits
   
 - Opened **1** issues
   
-- Submitted **25** pull requests
+- Submitted **28** pull requests
   
 - Received **0** stars
   
