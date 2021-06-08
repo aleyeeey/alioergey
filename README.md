@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I play in a melodic-hardcore band called "Mel T. Eyes"
 - Account age: **1** years
   
-- Pushed **217** commits
+- Pushed **218** commits
   
 - Opened **12** issues
   
@@ -20,10 +20,10 @@
   
 - Top 4 most used languages across your repositories:
   
-    ![PHP](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%234F5D95&message=PHP%EF%B8%B138.1%25)
-    ![C++](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f34b7d&message=C%2B%2B%EF%B8%B125.1%25)
-    ![Java](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23b07219&message=Java%EF%B8%B119.8%25)
-    ![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B116.8%25)
+    ![PHP](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%234F5D95&message=PHP%EF%B8%B137%25)
+    ![C++](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f34b7d&message=C%2B%2B%EF%B8%B124.4%25)
+    ![Java](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23b07219&message=Java%EF%B8%B122%25)
+    ![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B116.4%25)
   
 ### Spotify Playing 🎧
 
