@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning everything
 - 🥅 2020 Goals: finish my semester good
 - ⚡ Fun fact: I play in a melodic-hardcore band called "Mel T. Eyes"
-- Account age: **1** years
+- Account age: **2** years
   
 - Pushed **37** commits
   
